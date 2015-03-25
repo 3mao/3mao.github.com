@@ -1,2 +1,2 @@
-# 3mao.github.com
+# 3mao.github.io
 3毛博客
